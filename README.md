@@ -65,5 +65,4 @@ En versiones futuras, se podrían añadir pruebas unitarias para verificar que c
 - 
 - **IDE**: Eclipse - https://eclipseide.org
 
-Este proyecto es un buen ejemplo de cómo usar conceptos de POO en Java y construir algo modular y práctico.
 
