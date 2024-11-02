@@ -1,7 +1,3 @@
-Claro, aquí tienes el `README.md` con un tono más cercano y fácil de entender:
-
----
-
 # Proyecto de Gestión de Contenidos Audiovisuales 🎬🎧
 
 Este proyecto es una aplicación en Java para gestionar distintos tipos de contenidos audiovisuales. La idea principal es tener una base donde se puedan organizar películas, series, documentales, videos musicales y podcasts, mostrando detalles específicos de cada uno. Es un ejemplo práctico de programación orientada a objetos (POO) en Java, que nos permite ver cómo organizar y trabajar con diferentes tipos de datos.
