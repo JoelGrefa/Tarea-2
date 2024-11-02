@@ -1,24 +1,24 @@
 package uni1a;
 
-public class Documental extends ContenidoAudiovisual {
+public class Podcast extends ContenidoAudiovisual {
+    private String host;
     private String tema;
-    private Investigador investigador;
 
-    public Documental(String titulo, int duracionEnMinutos, String genero, String tema, Investigador investigador) {
+    public Podcast(String titulo, int duracionEnMinutos, String genero, String host, String tema) {
         super(titulo, duracionEnMinutos, genero);
+        this.host = host;
         this.tema = tema;
-        this.investigador = investigador;
     }
 
     @Override
     public void mostrarDetalles() {
-        System.out.println("Detalles del documental:");
+        System.out.println("Detalles del podcast:");
         System.out.println("ID: " + getId());
         System.out.println("Título: " + getTitulo());
         System.out.println("Duración en minutos: " + getDuracionEnMinutos());
         System.out.println("Género: " + getGenero());
+        System.out.println("Host: " + this.host);
         System.out.println("Tema: " + this.tema);
-        System.out.println("Investigador: " + investigador.getNombre() + " (Especialidad: " + investigador.getEspecialidad() + ")");
         System.out.println();
     }
 }
