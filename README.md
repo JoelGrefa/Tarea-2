@@ -71,6 +71,3 @@ En versiones futuras, se podrían añadir pruebas unitarias para verificar que c
 
 Este proyecto es un buen ejemplo de cómo usar conceptos de POO en Java y construir algo modular y práctico. ¡Espero que te sirva como base o inspiración para tus propios proyectos!
 
---- 
-
-Este formato es más amigable y directo, perfecto para que cualquiera que lea pueda entender el propósito del proyecto rápidamente y cómo utilizarlo.
