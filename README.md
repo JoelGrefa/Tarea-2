@@ -42,6 +42,7 @@ Si quieres ejecutar el proyecto en tu propia máquina, sigue estos pasos:
    ```bash
    git clone https://github.com/tuusuario/proyecto-gestion-contenidos.git
    ```
+https://github.com
 
 2. **Importa el Proyecto en Eclipse**:
    - Abre Eclipse.
